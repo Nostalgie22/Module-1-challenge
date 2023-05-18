@@ -1,56 +1,23 @@
 # Module-1-challenge
-Module-1-challenge
-# Title
+What is the name of the company ?
+WELLSFARGO
+when was the company incorporated?
+March,1852
+Who are the f oundrers of company?
+Henry wells and Williams G.fargo
+how did the idea for the company come about
+henry and Williams create the Americn express for extended their market they had one competitors at that time 
+How is the company funded ? how much funding have they received?
+so in order to extended the market for gaining more customers and state,henry and williams was denied by the company directors the extensions of american express then they decide to create wellsfargo with their business money planned for extending american express.
+Businees activities
+what specific financial problem is the company or project trying to solve?
 
-## Overview and Origin
+who is the company's intended customer? is there any information aabout market size of this set of customers?based on my reserach wells fargo reached more 70 millions customers allover the world ,the estimations of countries where wellsfargo operate are 35.
+what solution does this company offer that their competitors do not or cannot offer?
 
-* What is the name of the company?
+which technologies are they currently using,and how are they implementing them?
 
-* When was the company incorporated?
+what domain of the financial industry is the company in? wells fargo has a lot financial industry domain so i will only focus on the digital banking or online banking 
+What have been the major trends and
 
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
-
-## Business Activities
-
-* What specific financial problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-
-
-## Landscape
-
-* What domain of the financial industry is the company in?
-
-* What have been the major trends and innovations of this domain over the last 5–10 years?
-
-* What are the other major companies in this domain?
-
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
